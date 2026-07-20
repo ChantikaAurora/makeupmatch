@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Environment - JANGAN UPLOAD!
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
